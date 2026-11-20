@@ -13,3 +13,5 @@ Ce dépôt contient les comptes rendus des 3 premiers TP du cours d'Administrati
 3. **TP 3 : Systemd et Journalctl**  
    Gestion des services et des cibles, consultation des logs et création d'un service personnalisé.  
 
+4. **TP 4 : Gestion des paquetages sous Linux**  
+Maîtrise de la gestion des paquetages avec rpm et dnf/yum, vérification de signatures, résolution de dépendances, gestion des dépôts et création d'un dépôt de logiciels local.
